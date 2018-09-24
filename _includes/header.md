@@ -2,5 +2,5 @@
 
 Harvard University\\
 Etowah High School\\
-Advanced Placement Course
-2018–2019\\
+Advanced Placement Course\\
+2018–2019
