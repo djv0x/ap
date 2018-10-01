@@ -15,9 +15,7 @@ In this section, we'll dive into variables in C. A variable is a storage contain
 - ### Notes
   - [Variables]({{"/assets/pdfs/unit1/variables.pdf" | relative_url }})
 
-- ### Thought Questions
+- ### Submit your answers to the following & Submit your Program to CANVAS
   - Why do we need variables?
   - What would happen to our programs if we couldn't use variables?
-  - Specifically, how would we write a program that adds two numbers together if we didn't have access to variables?
-
-
+  - Write a program that adds two numbers together : If we didn't have access to variables, how would this affect your program?
