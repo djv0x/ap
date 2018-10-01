@@ -18,4 +18,7 @@ In this section, we'll dive into variables in C. A variable is a storage contain
 - ### Submit your answers to the following & Submit your Program to CANVAS
   - Why do we need variables?
   - What would happen to our programs if we couldn't use variables?
-  - Write a program that adds two numbers together : If we didn't have access to variables, how would this affect your program?
+  - If we didn't have access to variables, how would this affect your program?
+  
+  - Less Comfortable: Write a program that adds two numbers together
+  - More Comfortable: Write a program that allows a user to either add two numbers together or multiply the two numbers 
