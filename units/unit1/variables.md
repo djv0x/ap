@@ -20,5 +20,5 @@ In this section, we'll dive into variables in C. A variable is a storage contain
   - What would happen to our programs if we couldn't use variables?
   - If we didn't have access to variables, how would this affect your program?
   
-  - Less Comfortable: Write a program that adds two numbers together
-  - More Comfortable: Write a program that allows a user to either add two numbers together or multiply the two numbers 
+  - Less Comfortable: Write a program that places two names together in the following format: last name, first name
+  - More Comfortable: Write a program that places two names together in the following format: last name, first initial
