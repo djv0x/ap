@@ -24,3 +24,15 @@ In this section, we'll dive into variables in C. A variable is a storage contain
   - novice coder: create a program that adds two numbers together given by a user
   - comfy coder: create a program that finds the average of three positive numbers given by a user
   - l33t coder: create a program that finds the square of a number given by a user
+  - neo: create a program that when two numbers are given the output results in a swap of values
+    
+    - Output of program:
+    - Enter two integers
+    - 23
+    - 45
+    - Before Swapping
+    - First integer = 23
+    - Second integer = 45
+    - After Swapping
+    - First integer = 45
+    - Second integer = 23
