@@ -15,10 +15,12 @@ In this section, we'll dive into variables in C. A variable is a storage contain
 - ### Notes
   - [Variables]({{"/assets/pdfs/unit1/variables.pdf" | relative_url }})
 
-- ### Submit your answers to the following & Submit your Program to CANVAS
+- ### Submit your answers & your program to CANVAS as a variables.c file
   - Why do we need variables?
   - What would happen to our programs if we couldn't use variables?
   - If we didn't have access to variables, how would this affect your program?
-  
-  - Less Comfortable: Write a program that places two names together in the following format: last name, first name
-  - More Comfortable: Write a program that places two names together in the following format: last name, first initial
+
+- ### Write a program that:
+  - novice coder: create a program that adds two numbers together given by a user
+  - comfy coder: create a program that finds the average of three positive numbers given by a user
+  - l33t coder: create a program that finds the square of a number given by a user
