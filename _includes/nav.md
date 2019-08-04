@@ -10,10 +10,7 @@
 
 ***
 
-* [Period 1 (CSP)]({{ "/periods/1" | relative_url }})
-* [Period 5 (AP CSP)]({{ "/periods/5" | relative_url }})
-* [Period 7 (CSP)]({{ "/periods/1" | relative_url }})
-* [Period 8 (Robotics Team)]({{ "/periods/8" | relative_url }})
+* [Period 4 (AP CSP)]({{ "/periods/4" | relative_url }})
 
 ***
 
